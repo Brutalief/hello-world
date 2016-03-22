@@ -1,2 +1,5 @@
 # hello-world
-Starter repository
+
+Hello
+
+This is Brutalief trying out Github.
